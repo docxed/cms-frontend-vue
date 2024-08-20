@@ -1,0 +1,8 @@
+thai: ไทย
+notification:
+  success: สำเร็จ
+  error: ผิดพลาด
+  save_success: บันทึกสำเร็จ
+  delete_success: ลบสำเร็จ
+  restore_success: กู้คืนสำเร็จ
+  update_success: อัปเดทสำเร็จ

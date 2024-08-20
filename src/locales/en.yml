@@ -1,0 +1,8 @@
+thai: Thai
+notification:
+  success: Success
+  error: Error
+  save_success: Save successfully
+  delete_success: Delete successfully
+  restore_success: Restore successfully
+  update_success: Update successfully
